@@ -2,7 +2,7 @@
 # . **Color Game**  
 
 A fun and interactive game that keeps you hooked! Built for the HNG Internship, it’s all about smooth performance, clean code, and an awesome player experience. --------
-Preview: [LiveLink](https://hng-project2-color-game.vercel.app/   
+Preview: [LiveLink](https://hng-project2-color-game.vercel.app/)   
 
 
 ## 🛠 **Tech Stack**  
